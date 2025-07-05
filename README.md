@@ -46,8 +46,6 @@
 
 ## 🚀 Projects & Assignments
 
-## 🚀 Projects & Assignments
-
 | 🔗 Project / Assignment                                        | 📝 Description                                                 | 🛠️ Techniques                    |
 |----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|
 | [Forensic Evidence Guide](https://github.com/Rinnegaan/Forensic-Evidance-Guide.md) | Comprehensive guide covering Fingerprints · Tool Marks · Trace Evidence | Microscopy, Photography          |
