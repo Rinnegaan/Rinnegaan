@@ -46,12 +46,15 @@
 
 ## 🚀 Projects & Assignments
 
-| 🔗 Project / Assignment                                      | 📝 Description                                                 | 🛠️ Techniques               |
-|--------------------------------------------------------------|----------------------------------------------------------------|-----------------------------|
-| **Forensic Evidence Guide**                                  | Comprehensive guide covering Fingerprints · Tool Marks · Trace Evidence | Microscopy, Photography     |
-| [Trace & Transfer Evidence (Module Part 3)](/projects/trace-transfer) | Deep dive on Fibers, Glass, Soil & Vegetation analysis         | Microscopy, Chromatography  |
-| [Fingerprints Analysis](/projects/fingerprints)              | Methods of development, lifting, and classification             | Powder, Ninhydrin, Cyanoacrylate |
-| [Tool Marks Examination](/projects/tool-marks)               | Casting, comparison, and interpretation of tool‐mark impressions | Casting Materials, Photography |
+## 🚀 Projects & Assignments
+
+| 🔗 Project / Assignment                                        | 📝 Description                                                 | 🛠️ Techniques                    |
+|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------|
+| [Forensic Evidence Guide](https://github.com/Rinnegaan/Forensic-Evidance-Guide.md) | Comprehensive guide covering Fingerprints · Tool Marks · Trace Evidence | Microscopy, Photography          |
+| [Trace & Transfer Evidence (Module Part 3)](https://github.com/Rinnegaan/Trace-Transfer-Evidence-Guide.md) | Deep dive on Fibers, Glass, Soil & Vegetation analysis         | Microscopy, Chromatography       |
+| [Fingerprints Analysis](https://github.com/Rinnegaan/Fingerprints-Analysis.md)       | Methods of development, lifting, and classification            | Powder, Ninhydrin, Cyanoacrylate |
+| [Tool Marks Examination](https://github.com/Rinnegaan/Tool-Marks-Examination)        | Casting, comparison, and interpretation of tool‐mark impressions | Casting Materials, Photography   |
+
 
 ---
 
